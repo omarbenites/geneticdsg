@@ -25,10 +25,9 @@ North Carolina design II (NCDII) takes one female at random which is crossed wit
    
 res <- design_carolina(set= 3, r =2, male = c("m1","m2"), female = c("f1", "f2"), type = 1)       
 }
-\author{
-Omar Benites
-}
 \references{
 Statistical and Biometrical Techniques in Plant Breeding. Jawar R. Sharma. New Age International Publishers 2008.
 }
-
+\author{
+Omar Benites
+}
